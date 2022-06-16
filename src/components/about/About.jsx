@@ -39,6 +39,19 @@ const About = () => {
             </article>
           </div>
           <p>
+            I am an interdisciplinary job seeker. I have been in the business
+            field for a long time. Yet I have been studying programming language
+            (Python) since my master’s years. My graduation thesis also applied
+            machine learning to run data analysis, and I have begun to gain a
+            great passion for programming. After the graduation of my Master’s
+            degree, the company where I had an internship had a job vacancy
+            demand, so I worked as a product specialist in the company (inFlux
+            Financial Technology) and was promoted to product manager in January
+            2021. I resigned due to military service in July and have continued
+            to study the front-end skills (HTML/JavaScript/React) during my
+            military service.
+          </p>
+          <p>
             我是一位跨領域的求職者，原先在商學領域很長一段時間，但自碩班開始接觸程式語言
             (Python)，畢業論文也是利用應用機器學習來跑數據分析，對程式開始有了熱愛，而畢業後原實習公司有職缺需求，故在前公司(普匯金融科技)擔任產品專員一職，在
             2021 / 01 升任產品經理；在 2021 / 07
